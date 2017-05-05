@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+#gen_expertise {
+    padding: 50px 30px 20px 80px;
+    background-color: #a2836e;
+    color: white
+}
+#edu {
+   padding: 55px 30px 20px 80px;  
+   background-color: #fefbd8;
+   color:#674d3c;
+}
+#tech {
+    padding: 55px 30px 20px 80px;
+    background-color: #a2836e;
+    color:white;
+}
+#w_exp {
+    padding: 55px 30px 20px 80px;
+    background-color: #fefbd8;
+    color:#674d3c;
+}
+#contact {
+    padding: 55px 30px 20px 80px;
+    background-color: #a2836e;
+    color:white;
+}
+.parallax { 
+    /* The image used */
+    background-image: url("https://static.pexels.com/photos/1380/black-and-white-city-skyline-buildings.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#my_name {text-align: center};
