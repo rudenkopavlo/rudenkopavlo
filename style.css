@@ -6,7 +6,7 @@
 }
 #edu {
    padding: 50px 30px 10px 80px;  
-   background-color: #c09f80;
+   background-color: #d7cec7;
    color: #565656;
 }
 #tech {
@@ -16,12 +16,14 @@
 }
 #w_exp {
     padding: 50px 30px 10px 80px;
-    background-color: #c09f80;
+    background-color: #d7cec7;
     color: #565656;
 }
 #contact {
-    padding: 50px 30px 10px 80px;
+    padding: 20px 30px 10px 80px;
     background-color: #d7cec7;
     color: #565656;
 }
 #my_name {text-align: center};
+
+#brown {color:#76323F};
