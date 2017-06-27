@@ -27,3 +27,16 @@
 #my_name {text-align: center};
 
 #brown {color:#76323F};
+
+@media (max-width: 767px) {
+    .navbar-fixed-top {
+        position: relative;
+        top: auto;
+    }
+    .navbar-collapse {
+        max-height: none;
+    }
+    body {
+        margin: 0;
+    }
+}
